@@ -1,0 +1,50 @@
+# Binarios compilados
+*.exe
+*.dll
+*.so
+*.dylib
+*.o
+*.a
+*.out
+
+# Archivos de respaldo
+*~
+*.bak
+*.tmp
+*.old
+
+# Archivos de configuración del IDE
+*.dsk
+*.dproj
+*.dpr
+*.cfg
+*.map
+
+# Directorios de salida del compilador
+/Debug/
+/Release/
+
+# Archivos generados por Lazarus
+*.ppu
+*.compiled
+*.rsj
+*.res
+*.or
+*.rst
+
+# Archivos específicos de Delphi
+*.dcu
+*.dcp
+
+# Archivos de metadatos de Lazarus
+lib/
+backup/
+lazarus.cfg
+environmentoptions.xml
+packagefiles.xml
+
+# Otros archivos temporales
+*.log
+*.temp
+*.cache
+*.suo
